@@ -2,8 +2,121 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d47d35eb-b6fe-4248-8b63-ca716cd4bf15" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/note.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/1.开始/file1.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/1.开始/file2.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/1.开始/file3.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/1.开始/file4.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/1.开始/file5.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/1.开始/file6.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/10.泛型算法/file1.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/10.泛型算法/file2.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/10.泛型算法/file3.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/10.泛型算法/file4.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/10.泛型算法/file5.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/10.泛型算法/file6.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/11.关联容器/file1.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/11.关联容器/file2.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/11.关联容器/file3.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/11.关联容器/file4.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/12.动态内存/file1.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/12.动态内存/file2.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/12.动态内存/file3.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/13.拷贝控制/file1.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/13.拷贝控制/file2.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/13.拷贝控制/file3.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/13.拷贝控制/file4.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/13.拷贝控制/file5.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/13.拷贝控制/file6.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/14.重载运算与类型转换/file1.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/14.重载运算与类型转换/file2.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/14.重载运算与类型转换/file3.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/14.重载运算与类型转换/file4.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/14.重载运算与类型转换/file5.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/14.重载运算与类型转换/file6.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/14.重载运算与类型转换/file7.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/14.重载运算与类型转换/file8.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/15.面向对象程序设计/file1.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/15.面向对象程序设计/file2.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/15.面向对象程序设计/file3.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/15.面向对象程序设计/file4.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/15.面向对象程序设计/file5.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/15.面向对象程序设计/file6.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/15.面向对象程序设计/file7.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/15.面向对象程序设计/file8.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/15.面向对象程序设计/file9.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/16.模板与泛型编程/file1.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/16.模板与泛型编程/file2.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/16.模板与泛型编程/file3.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/16.模板与泛型编程/file4.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/16.模板与泛型编程/file5.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/17.标准库特殊设施/file1.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/17.标准库特殊设施/file2.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/17.标准库特殊设施/file3.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/17.标准库特殊设施/file4.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/17.标准库特殊设施/file5.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/18.用于大型程序的工具/file1.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/18.用于大型程序的工具/file2.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/18.用于大型程序的工具/file3.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/19.特殊工具与技术/file1.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/19.特殊工具与技术/file2.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/19.特殊工具与技术/file3.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/19.特殊工具与技术/file4.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/19.特殊工具与技术/file5.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/19.特殊工具与技术/file6.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/19.特殊工具与技术/file7.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/19.特殊工具与技术/file8.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/2.变量和基本类型/file1.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/2.变量和基本类型/file2.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/2.变量和基本类型/file3.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/2.变量和基本类型/file4.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/2.变量和基本类型/file5.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/2.变量和基本类型/file6.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/3.字符串，向量和数组/file1.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/3.字符串，向量和数组/file2.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/3.字符串，向量和数组/file3.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/3.字符串，向量和数组/file4.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/3.字符串，向量和数组/file5.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/3.字符串，向量和数组/file6.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/4.表达式/file1.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/4.表达式/file10.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/4.表达式/file11.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/4.表达式/file12.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/4.表达式/file2.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/4.表达式/file3.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/4.表达式/file4.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/4.表达式/file5.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/4.表达式/file6.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/4.表达式/file7.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/4.表达式/file8.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/4.表达式/file9.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/5.语句/file1.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/5.语句/file2.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/5.语句/file3.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/5.语句/file4.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/5.语句/file5.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/5.语句/file6.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/6.函数/file1.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/6.函数/file2.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/6.函数/file3.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/6.函数/file4.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/6.函数/file5.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/6.函数/file6.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/6.函数/file7.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/7.类/file1.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/7.类/file2.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/7.类/file3.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/7.类/file4.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/7.类/file5.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/7.类/file6.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/8.IO库/file1.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/8.IO库/file2.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/8.IO库/file3.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/9.顺序容器/file1.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/9.顺序容器/file2.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/9.顺序容器/file3.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/9.顺序容器/file4.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/9.顺序容器/file5.c++" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/The_C_Programming_Language/9.顺序容器/file6.c++" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,38 +129,39 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="1" />
+          <entry key="py" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="1" />
+          <entry key="Python" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="456" />
+          <entry key="py" value="620" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="456" />
+          <entry key="Python" value="620" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/notes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="170">
+              <caret line="10" column="114" selection-start-line="10" selection-start-column="114" selection-end-line="10" selection-end-column="114" />
             </state>
           </provider>
         </entry>
@@ -75,6 +189,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -86,11 +201,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Recoding_Java" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RunDashboard">
@@ -148,15 +262,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="718" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32874355" />
@@ -164,10 +273,14 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Mongo Explorer" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Mongo Explorer" order="3" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -176,8 +289,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/notes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="170">
+          <caret line="10" column="114" selection-start-line="10" selection-start-column="114" selection-end-line="10" selection-end-column="114" />
         </state>
       </provider>
     </entry>
