@@ -3,3 +3,6 @@
 1.安装 g++
 
 sudo apt-get install g++
+
+
+g++ test.cpp
