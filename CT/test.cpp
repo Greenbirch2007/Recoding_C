@@ -1,30 +1,25 @@
 #include <iostream>
+#include <ctime>
+#include <cstdlib>
+
 
 using namespace std;
 
-main()
+int main()
 {   
-    int a = 5;
-    int b = 20;
-    int c;
-    
-    if (a&&b)
+    int i,j;
+
+    // 设置种子
+    srand((unsigned)time(NULL));
+
+    /* 生成10个随机数 */
+    for(i=0;i <10;i++)
     {
-        cout << "Line 1 - 条件为真" <<endl;
+        // 生成实际的随机数
+        j = rand();
+        cout <<"随机数: " <<j << endl;
     }
-    if (a || b )
-    {   
-        cout << "Line 2 - 条件为真" << endl;
-    }
-    a = 0;
-    b = 10;
-    if (a && b )
-    {
-        cout << "Line 3 -条件为真" << endl;
-    } else{
-        cout << "Line 4 -条件不为真" << endl;
-    }
-    if ( !(a && b )) {
-    cout << "Line 5 -条件为真 " << endl;
-    }
-    return 0;}
+
+    return 0;
+
+}
