@@ -1,0 +1,12 @@
+
+
+
+1.wget http://ftp.gnu.org/gnu/gdb/gdb-8.0.1.tar.gz
+
+2.tar -zxvf gdb-8.0.1.tar.gz
+
+3.（生成makefile文件）./configure
+
+4.make
+5. sudo make install
+6.gdb -v
