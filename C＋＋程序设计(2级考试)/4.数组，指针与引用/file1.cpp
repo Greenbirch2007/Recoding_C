@@ -1,21 +1,23 @@
 #include <iostream>
+#include <cstdlib>
 
 using namespace std;
 
 int main()
 {
-    int *p;
-    int x = 36;
-    cout << "Line 1: x= " << endl;
-    p = &x;
-    cout << "Line 3 : *p = " << *p << ",x= " << endl;
-    *p = 58;
-    cout << "Line 5 : *p=" << *p << ", x=" <<x << endl;
-
-    cout << "Line6 : Address of p = "<< &p << endl;
-    cout << "Line7 : Value of p = " << p << endl;
-    cout <<" Line8 : Value of the memory location" << " pointed to by *p = " << *p <<endl;
-    cout <<"Line 9 : Address of x= " << &x << endl;
-    cout <<"Line 10: Value of x =" << x << endl;
+    int arraySize;
+    int * array;
+    
+    cout << "Please input the size of the array:";
+    cin >> arraySize;
+    array = new int[arraySize];
+    if (arraySize = = NULL) {
+            cout << "Cannot allocate more memory,exit the program. \n";
+            exit(1);
+}
+    for(int i=0;i < arraySize;i++) array[i] = i*i;
+    for(int i=0;i<arraySize;i++) cout <<array[i] <<" ";
+    cout << endl;
+    delete [] array;
     return 0;
-    }
+}
